@@ -4,7 +4,7 @@ internal class Program
 {
     public static void Main(string[] args)
     {
-        var inputMouse = new InputMouse();
-        inputMouse.Run();
+        var inputMouseWheel = new InputMouseWheel();
+        inputMouseWheel.Run();
     }
 }

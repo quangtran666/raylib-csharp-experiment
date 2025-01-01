@@ -20,3 +20,4 @@ C:\Projects\Raylib-Experiment\obj\Debug\net6.0\refint\Raylib-Experiment.dll
 C:\Projects\Raylib-Experiment\obj\Debug\net6.0\Raylib-Experiment.pdb
 C:\Projects\Raylib-Experiment\obj\Debug\net6.0\Raylib-Experiment.genruntimeconfig.cache
 C:\Projects\Raylib-Experiment\obj\Debug\net6.0\ref\Raylib-Experiment.dll
+C:\Projects\Raylib-Experiment\obj\Debug\net6.0\Raylib-Experiment.sourcelink.json
